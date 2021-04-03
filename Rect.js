@@ -1,7 +1,7 @@
 import React from 'react'
 import NumberPlate from './NumberPlate.jsx'
 
-export default class React extends React.Component {
+export default class Rect extends React.Component {
   // デフォルト属性値
   static defaultProps = {
     num: 0,
